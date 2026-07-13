@@ -107,12 +107,6 @@ A full-stack task management application.
 
 ---
 
-## 📚 DSA Question Tracker
-
-A platform to manage coding questions, track progress and improve consistency.
-
----
-
 # 📊 GitHub Analytics
 
 <p align="center">
@@ -180,13 +174,3 @@ A platform to manage coding questions, track progress and improve consistency.
 </a>
 
 </p>
-
----
-
-<div align="center">
-
-*"Code. Learn. Build. Repeat."*
-
-![](https://komarev.com/ghpvc/?username=sodiumcodes&style=for-the-badge&color=blueviolet)
-
-</div>
