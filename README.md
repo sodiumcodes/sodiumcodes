@@ -112,27 +112,6 @@ const naina = {
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=sodiumcodes&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sodiumcodes&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=sodiumcodes&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sodiumcodes&theme=tokyo-night&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sodiumcodes&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
 ## 🌐 Let's Connect
 
 <p align="center">
